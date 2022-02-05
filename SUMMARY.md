@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎你\~](README.md)
+* [前言](README.md)
 
 ## 交互叙事
 
