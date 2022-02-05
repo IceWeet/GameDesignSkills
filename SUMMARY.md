@@ -2,10 +2,15 @@
 
 * [前言](README.md)
 
-## 交互叙事
+## 设计理论
 
-* [《艾迪芬奇的记忆》](jiao-hu-xu-shi/ai-di-fen-qi-de-ji-yi.md)
+## 案例分享
 
-## 角色塑造
+* [交互叙事](an-li-fen-xiang/jiao-hu-xu-shi/README.md)
+  * [《艾迪芬奇的记忆》](an-li-fen-xiang/jiao-hu-xu-shi/ai-di-fen-qi-de-ji-yi.md)
+* [角色塑造](an-li-fen-xiang/jiao-se-su-zao/README.md)
+  * [《最终幻想7重制版》](an-li-fen-xiang/jiao-se-su-zao/zui-zhong-huan-xiang-7-zhong-zhi-ban.md)
 
-* [《最终幻想7重制版》](jiao-se-su-zao/zui-zhong-huan-xiang-7-zhong-zhi-ban.md)
+## 其他
+
+* [Page 1](qi-ta/page-1.md)
