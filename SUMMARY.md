@@ -6,6 +6,8 @@
 
 * [角色对话](she-ji-li-lun/jiao-se-dui-hua/README.md)
   * [丰富角色对话的方式](she-ji-li-lun/jiao-se-dui-hua/feng-fu-jiao-se-dui-hua-de-fang-shi.md)
+* [射击游戏](she-ji-li-lun/she-ji-you-xi/README.md)
+  * [辅助射击如何实现](she-ji-li-lun/she-ji-you-xi/fu-zhu-she-ji-ru-he-shi-xian.md)
 
 ## 案例分享
 
