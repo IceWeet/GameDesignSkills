@@ -4,6 +4,9 @@
 
 ## 设计理论
 
+* [角色对话](she-ji-li-lun/jiao-se-dui-hua/README.md)
+  * [丰富角色对话的方式](she-ji-li-lun/jiao-se-dui-hua/feng-fu-jiao-se-dui-hua-de-fang-shi.md)
+
 ## 案例分享
 
 * [交互叙事](an-li-fen-xiang/jiao-hu-xu-shi/README.md)
