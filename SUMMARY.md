@@ -4,8 +4,9 @@
 
 ## 设计理论
 
-* [角色对话](she-ji-li-lun/jiao-se-dui-hua/README.md)
-  * [丰富角色对话的方式](she-ji-li-lun/jiao-se-dui-hua/feng-fu-jiao-se-dui-hua-de-fang-shi.md)
+* [剧情设计](she-ji-li-lun/ju-qing-she-ji/README.md)
+  * [丰富角色对话的方式](she-ji-li-lun/ju-qing-she-ji/feng-fu-jiao-se-dui-hua-de-fang-shi.md)
+  * [如何设计和虚拟角色的约会](she-ji-li-lun/ju-qing-she-ji/ru-he-she-ji-he-xu-ni-jiao-se-de-yue-hui.md)
 * [射击游戏](she-ji-li-lun/she-ji-you-xi/README.md)
   * [辅助射击如何实现](she-ji-li-lun/she-ji-you-xi/fu-zhu-she-ji-ru-he-shi-xian.md)
 
