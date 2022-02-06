@@ -14,7 +14,7 @@
 * [交互叙事](an-li-fen-xiang/jiao-hu-xu-shi/README.md)
   * [《艾迪芬奇的记忆》](an-li-fen-xiang/jiao-hu-xu-shi/ai-di-fen-qi-de-ji-yi.md)
 * [角色塑造](an-li-fen-xiang/jiao-se-su-zao/README.md)
-  * [《最终幻想7重制版》](an-li-fen-xiang/jiao-se-su-zao/zui-zhong-huan-xiang-7-zhong-zhi-ban.md)
+  * [《最终幻想7重制版》爱丽丝](an-li-fen-xiang/jiao-se-su-zao/zui-zhong-huan-xiang-7-zhong-zhi-ban-ai-li-si.md)
 
 ## 其他
 
