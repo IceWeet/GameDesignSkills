@@ -18,6 +18,7 @@
   * [《最终幻想7重制版》爱丽丝](an-li-fen-xiang/jiao-se-su-zao/zui-zhong-huan-xiang-7-zhong-zhi-ban-ai-li-si.md)
   * [《Gran Saga》里的抽卡小女孩](an-li-fen-xiang/jiao-se-su-zao/gran-saga-li-de-chou-ka-xiao-nv-hai.md)
   * [《Gran Saga》少女跑步效果](an-li-fen-xiang/jiao-se-su-zao/gran-saga-shao-nv-pao-bu-xiao-guo.md)
+  * [《Gran Saga》战斗失败的不同表现](an-li-fen-xiang/jiao-se-su-zao/gran-saga-zhan-dou-shi-bai-de-bu-tong-biao-xian.md)
 
 ## 其他
 
