@@ -21,6 +21,8 @@
   * [《Gran Saga》战斗失败的不同表现](an-li-fen-xiang/jiao-se-su-zao/gran-saga-zhan-dou-shi-bai-de-bu-tong-biao-xian.md)
 * [抽卡展示](an-li-fen-xiang/chou-ka-zhan-shi/README.md)
   * [《Gran Saga》的抽卡效果](an-li-fen-xiang/chou-ka-zhan-shi/gran-saga-de-chou-ka-xiao-guo.md)
+* [系统玩法](an-li-fen-xiang/xi-tong-wan-fa/README.md)
+  * [《Gran Saga》竞技场](an-li-fen-xiang/xi-tong-wan-fa/gran-saga-jing-ji-chang.md)
 
 ## 其他
 
