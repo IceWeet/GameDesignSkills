@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/Ln0fTmaWXKQ" %}
 
-> 哔哩哔哩视频地址：
+> 哔哩哔哩视频地址：[https://www.bilibili.com/video/BV1F3411J7to/](https://www.bilibili.com/video/BV1F3411J7to/)
 
 在《Gran Saga》中，点击抽卡是欢迎页面的小女孩帮玩家抽，小女孩的休闲动画，以及走过去触发神树抽卡的动画，有几种效果随机播放，很有趣
 
