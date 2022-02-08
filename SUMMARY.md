@@ -2,28 +2,24 @@
 
 * [前言](README.md)
 
-## 设计理论
+## 剧情设计
 
-* [剧情设计](she-ji-li-lun/ju-qing-she-ji/README.md)
-  * [丰富角色对话的方式](she-ji-li-lun/ju-qing-she-ji/feng-fu-jiao-se-dui-hua-de-fang-shi.md)
-  * [如何设计和虚拟角色的约会](she-ji-li-lun/ju-qing-she-ji/ru-he-she-ji-he-xu-ni-jiao-se-de-yue-hui.md)
-* [射击游戏](she-ji-li-lun/she-ji-you-xi/README.md)
-  * [辅助射击如何实现](she-ji-li-lun/she-ji-you-xi/fu-zhu-she-ji-ru-he-shi-xian.md)
+* [丰富角色对话的方式](ju-qing-she-ji/feng-fu-jiao-se-dui-hua-de-fang-shi.md)
+* [如何设计和虚拟角色的约会](ju-qing-she-ji/ru-he-she-ji-he-xu-ni-jiao-se-de-yue-hui.md)
+* [⨳《艾迪芬奇的记忆》](ju-qing-she-ji/ai-di-fen-qi-de-ji-yi.md)
+* [⨳《最终幻想7重制版》爱丽丝](ju-qing-she-ji/zui-zhong-huan-xiang-7-zhong-zhi-ban-ai-li-si.md)
+* [⨳《Gran Saga》里的抽卡小女孩](ju-qing-she-ji/gran-saga-li-de-chou-ka-xiao-nv-hai.md)
+* [⨳《Gran Saga》少女跑步效果](ju-qing-she-ji/gran-saga-shao-nv-pao-bu-xiao-guo.md)
+* [⨳《Gran Saga》战斗失败的不同表现](ju-qing-she-ji/gran-saga-zhan-dou-shi-bai-de-bu-tong-biao-xian.md)
 
-## 案例分享
+## 系统设计
 
-* [交互叙事](an-li-fen-xiang/jiao-hu-xu-shi/README.md)
-  * [《艾迪芬奇的记忆》](an-li-fen-xiang/jiao-hu-xu-shi/ai-di-fen-qi-de-ji-yi.md)
-* [角色塑造](an-li-fen-xiang/jiao-se-su-zao/README.md)
-  * [《最终幻想7重制版》爱丽丝](an-li-fen-xiang/jiao-se-su-zao/zui-zhong-huan-xiang-7-zhong-zhi-ban-ai-li-si.md)
-  * [《Gran Saga》里的抽卡小女孩](an-li-fen-xiang/jiao-se-su-zao/gran-saga-li-de-chou-ka-xiao-nv-hai.md)
-  * [《Gran Saga》少女跑步效果](an-li-fen-xiang/jiao-se-su-zao/gran-saga-shao-nv-pao-bu-xiao-guo.md)
-  * [《Gran Saga》战斗失败的不同表现](an-li-fen-xiang/jiao-se-su-zao/gran-saga-zhan-dou-shi-bai-de-bu-tong-biao-xian.md)
-* [抽卡展示](an-li-fen-xiang/chou-ka-zhan-shi/README.md)
-  * [《Gran Saga》的抽卡效果](an-li-fen-xiang/chou-ka-zhan-shi/gran-saga-de-chou-ka-xiao-guo.md)
-* [系统玩法](an-li-fen-xiang/xi-tong-wan-fa/README.md)
-  * [《Gran Saga》竞技场](an-li-fen-xiang/xi-tong-wan-fa/gran-saga-jing-ji-chang.md)
+* [⨳《Gran Saga》竞技场](xi-tong-she-ji/gran-saga-jing-ji-chang.md)
 
-## 其他
+## 射击游戏
 
-* [Page 1](qi-ta/page-1.md)
+* [辅助射击如何实现](she-ji-you-xi/fu-zhu-she-ji-ru-he-shi-xian.md)
+
+## 抽卡展示
+
+* [⨳《Gran Saga》的抽卡效果](chou-ka-zhan-shi/gran-saga-de-chou-ka-xiao-guo.md)
