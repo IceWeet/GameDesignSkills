@@ -1,6 +1,6 @@
-# 《Gran Saga》战斗失败的不同表现
+# ⨳《Gran Saga》战斗失败表现
 
-![](../../.gitbook/assets/Snipaste\_2022-02-07\_16-11-31.png)
+![](../.gitbook/assets/Snipaste\_2022-02-07\_16-11-31.jpg)
 
 在失败时，不同年龄的角色有不同的表现
 
