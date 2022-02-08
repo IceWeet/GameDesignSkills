@@ -30,5 +30,5 @@
 
 ## 抽卡展示
 
-* [《NieR Re\[in\]carnation》抽卡](chou-ka-zhan-shi/nier-reincarnation-chou-ka.md)
+* [⨳《NieR Re\[in\]carnation》抽卡](chou-ka-zhan-shi/nier-reincarnation-chou-ka.md)
 * [⨳《Gran Saga》的抽卡效果](chou-ka-zhan-shi/gran-saga-de-chou-ka-xiao-guo.md)
