@@ -1,5 +1,11 @@
 # ⨳《NieR Re\[in]carnation》叙事
 
+### 枪手男完整剧情
+
+{% embed url="https://youtu.be/oWW2IyGY58g" %}
+
+> 哔哩哔哩视频链接：
+
 ### 断肢女完整剧情
 
 {% embed url="https://youtu.be/vTxXXIja0fM" %}
