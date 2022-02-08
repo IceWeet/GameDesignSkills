@@ -20,7 +20,7 @@
 
 ## 系统设计
 
-* [便利新手的设计-玩法地图](xi-tong-she-ji/bian-li-xin-shou-de-she-ji-wan-fa-di-tu.md)
+* [新手设计-玩法地图](xi-tong-she-ji/xin-shou-she-ji-wan-fa-di-tu.md)
 * [⨳《Gran Saga》竞技场](xi-tong-she-ji/gran-saga-jing-ji-chang.md)
 
 ## 射击游戏
