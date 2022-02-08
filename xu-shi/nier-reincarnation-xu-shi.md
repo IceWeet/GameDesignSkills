@@ -4,7 +4,7 @@
 
 {% embed url="https://youtu.be/oWW2IyGY58g" %}
 
-> 哔哩哔哩视频链接：
+> 哔哩哔哩视频链接：[https://www.bilibili.com/video/BV1VZ4y1R7qj/](https://www.bilibili.com/video/BV1VZ4y1R7qj/)
 
 ### 断肢女完整剧情
 
