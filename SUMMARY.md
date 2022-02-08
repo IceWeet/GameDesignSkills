@@ -10,6 +10,7 @@
 ## 叙事
 
 * [⨳《艾迪芬奇的记忆》的交互叙事](xu-shi/ai-di-fen-qi-de-ji-yi.md)
+* [※《NieR Re\[in\]carnation》叙事](xu-shi/nier-reincarnation-xu-shi.md)
 
 ## 角色塑造
 
