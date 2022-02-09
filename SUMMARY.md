@@ -36,4 +36,4 @@
 
 ## 战斗表现
 
-* [⨳](zhan-dou-biao-xian/undefined.md)
+* [⨳《破晓传说》大招技能效果](zhan-dou-biao-xian/po-xiao-chuan-shuo-da-zhao-ji-neng-xiao-guo.md)
