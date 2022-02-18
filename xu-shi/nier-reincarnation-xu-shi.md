@@ -1,5 +1,11 @@
 # ⨳《NieR Re\[in]carnation》叙事
 
+### 探险家完整剧情
+
+{% embed url="https://youtu.be/t1XB2bDESXA" %}
+
+> 哔哩哔哩视频链接：
+
 ### 枪手男完整剧情
 
 {% embed url="https://youtu.be/oWW2IyGY58g" %}
