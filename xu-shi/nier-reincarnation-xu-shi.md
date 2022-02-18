@@ -4,7 +4,7 @@
 
 {% embed url="https://youtu.be/t1XB2bDESXA" %}
 
-> 哔哩哔哩视频链接：
+> 哔哩哔哩视频链接：[https://www.bilibili.com/video/BV1Fb4y1t7DH/](https://www.bilibili.com/video/BV1Fb4y1t7DH/)
 
 ### 枪手男完整剧情
 
