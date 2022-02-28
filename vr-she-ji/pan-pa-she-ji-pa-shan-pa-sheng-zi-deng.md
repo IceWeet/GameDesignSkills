@@ -14,4 +14,4 @@
 
 {% embed url="https://youtu.be/8OVbBTASE88" %}
 
-> 哔哩哔哩视频链接：
+> 哔哩哔哩视频链接：[https://www.bilibili.com/video/BV1Bm4y1R7Kn/](https://www.bilibili.com/video/BV1Bm4y1R7Kn/)
