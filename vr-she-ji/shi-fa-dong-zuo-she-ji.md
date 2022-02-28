@@ -6,4 +6,4 @@
 
 《The Wizards – Dark Times》拥有者很帅气的施法，通过简洁利落的动作即可释放魔法，就像自己真的会魔法一样
 
-> 哔哩哔哩视频链接：
+> 哔哩哔哩视频链接：[https://www.bilibili.com/video/BV1VL411N74n/](https://www.bilibili.com/video/BV1VL411N74n/)
