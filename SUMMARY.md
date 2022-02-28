@@ -41,4 +41,5 @@
 
 ## VR设计
 
+* [施法动作设计](vr-she-ji/shi-fa-dong-zuo-she-ji.md)
 * [攀爬设计（爬山、爬绳子等）](vr-she-ji/pan-pa-she-ji-pa-shan-pa-sheng-zi-deng.md)
